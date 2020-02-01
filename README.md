@@ -1,6 +1,6 @@
 # Clicky-Game
 This is memory game created with React. The app is done by breaking up my application's UI into components, then manage component state to respond to user events.
-![picturemain](assets/images/picturemain.png)
+![picturemain](public/assets/images/picturemain.png)
 
 View the live app @: https://clickygame09.herokuapp.com/
 
